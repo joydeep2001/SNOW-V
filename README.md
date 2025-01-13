@@ -45,6 +45,7 @@ Follow the on-screen instructions to encrypt or decrypt a file by providing the 
 ---
 
 ## Video Guide for using the code
+[demo.webm](https://github.com/user-attachments/assets/85369421-a4be-4906-afac-b66397e1c878)
 
 
 ## File Processing
